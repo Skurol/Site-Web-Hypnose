@@ -1,0 +1,12 @@
+.titre1 {
+    font-family: 'Outfit';
+    text-align: center;
+    font-size: 75px;
+    color: whitesmoke;
+}
+
+body{
+    Background-image: url('Bureau\images.jfif');
+    Background: linear-gradient(90deg,#990f84, #b30b0b);
+  
+}
